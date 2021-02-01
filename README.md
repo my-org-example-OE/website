@@ -3,7 +3,6 @@ This is a really dope website
 
 
 
-now Editing on update-readme branch
+updates made on master on GitHUB before rebase 
 
 
-updated locally
