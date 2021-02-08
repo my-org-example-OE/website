@@ -10,4 +10,4 @@ updates made on master on GitHUB before rebase
 Repository Purpose 
 
 
-This is just a f'ing README file bruh
+The purpose of this file is the provide examples on how to use Git and GitHub together. Dood. Joe Rogan vs the ice. 
