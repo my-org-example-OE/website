@@ -10,4 +10,8 @@ updates made on master on GitHUB before rebase
 Repository Purpose 
 
 
-The purpose of this file is the provide examples on how to use Git and GitHub together. Dood. Joe Rogan vs the ice. 
+The purpose of this file is the provide examples on how to use Git and GitHub together. 
+
+## Getting started
+
+To get started with this project just 'clone' this repository. 
